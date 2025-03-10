@@ -16,3 +16,8 @@
 1. Basic Knowledge of HTML
 2. Intermediate knowledge of JavaScript
 3. Basic Knowledge of React function component
+
+
+![alt text](image.png)
+
+![alt text](image-1.png)
